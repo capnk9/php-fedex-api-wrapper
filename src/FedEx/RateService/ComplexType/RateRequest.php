@@ -116,9 +116,4 @@ class RateRequest
         $this->RequestedShipment = $requestedShipment;
         return $this;
     }
-
-
-    
-
-    
 }

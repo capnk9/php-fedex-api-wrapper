@@ -15,5 +15,4 @@ class RateRequestType
 {
     const _ACCOUNT = 'ACCOUNT';
     const _LIST = 'LIST';
-    const _PREFERRED = 'PREFERRED';
 }

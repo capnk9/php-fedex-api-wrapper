@@ -344,11 +344,8 @@ class RequestedShipment
         $this->RequestedPackageLineItems = $requestedPackageLineItems;
         return $this;
     }
-
     public function getRequestedPackageLineItems()
     {
         return $this->RequestedPackageLineItems;
     }
-
-    
 }
